@@ -1,0 +1,28 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "title": "Sparkies",
+            "description": "Pepitas de colores bien cargadas de azucar",
+            "price": 300,
+            "stok": 10,
+            "thumbnail": "src/assets/sparkies.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Burbuja",
+            "description": "bola de chocolate",
+            "price": 600,
+            "stok": 10,
+            "thumbnail": "src/assets/burbuja.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Papas de limón",
+            "description": "Paquete de papas margarita sabor limón",
+            "price": 1200,
+            "stok": 10,
+            "thumbnail": "src/assets/papitas.png"
+        }
+    ]
+}
